@@ -1,5 +1,5 @@
 # Pekerti
-Research Activity to predict spelization
+Research Activity to predict specialization
 
 # To do list :#
 -----------------------------
