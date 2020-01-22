@@ -10,3 +10,6 @@ Research Activity to predict specialization
 
 ## 2. Silhouette Score
 - **silhoette-score** = Melihat score silhouette dari setiap cluster peminatan
+
+## 3. Clustering 2017
+- **clustering 2017.ipynb** = melihat plot berapa banyak mahasiswa yang cocok dan tidak cocok pada angkatan tersebut
