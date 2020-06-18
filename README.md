@@ -13,3 +13,11 @@ Research Activity to predict specialization
 
 ## 3. Clustering 2017
 - **clustering 2017.ipynb** = melihat plot berapa banyak mahasiswa yang cocok dan tidak cocok pada angkatan tersebut
+
+## 4. Tensorflow
+- **tensorflow.ipynb** = implementasi tensorflow cnn untuk mengetahui 2017 kemungkinan lulus tepat waktu atau tidak
+
+## 5. Seleksi Peminatan dan Lulus tepat waktu
+- 2016 -> pilihan 1 pilihan 2 peminatan
+- 2017 diprediksi peminatan mana berdasarkan 2016 termasuk pilihan 1 pilihan 2
+- berdasarkan hasil peminatan 2017, diprediksi lulus tepat waktu atau engga dari 2016. nilai prasyarat + peminatannya
